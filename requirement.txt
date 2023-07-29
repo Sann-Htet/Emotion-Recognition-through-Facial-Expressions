@@ -1,0 +1,6 @@
+opencv
+streamlit
+tensorflow
+maplotlib
+streamlit_webrtc
+skimage
